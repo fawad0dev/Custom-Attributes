@@ -1,0 +1,20 @@
+{
+    "name": "com.fawaddev.customattributes",
+    "version": "0.1.0",
+    "displayName": "Custom Attributes",
+    "keywords": [
+        "Mobile",
+        "Attributes",
+        "vh-name:CustomAttributes",
+        "vh-name:Custom Attributes"
+    ],
+    "author": {
+        "name": "Fawad Dev",
+        "url": "https://github.com/fawad0dev/Custom-Attributes"
+    },
+    "description": "Some Custom Attributes for Unity",
+    "unity": "6000.2.1f1",
+    "publishConfig": {
+        "registry": "https://package.openupm.com"
+    }
+}
