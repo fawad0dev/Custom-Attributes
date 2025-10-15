@@ -13,7 +13,7 @@
         "url": "https://github.com/fawad0dev/Custom-Attributes"
     },
     "description": "Some Custom Attributes for Unity",
-    "unity": "6000.2.1f1",
+    "unity": "6000.2",
     "publishConfig": {
         "registry": "https://package.openupm.com"
     }
